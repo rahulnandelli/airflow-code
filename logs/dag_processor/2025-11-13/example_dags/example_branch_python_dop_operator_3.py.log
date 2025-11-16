@@ -1,0 +1,2 @@
+{"timestamp":"2025-11-13T07:24:17.480376Z","level":"info","event":"Filling up the DagBag from /home/airflow/dbt-env/lib/python3.12/site-packages/airflow/example_dags/example_branch_python_dop_operator_3.py","logger":"airflow.models.dagbag.DagBag","filename":"dagbag.py","lineno":593}
+{"timestamp":"2025-11-13T07:24:47.747297Z","level":"info","event":"Filling up the DagBag from /home/airflow/dbt-env/lib/python3.12/site-packages/airflow/example_dags/example_branch_python_dop_operator_3.py","logger":"airflow.models.dagbag.DagBag","filename":"dagbag.py","lineno":593}

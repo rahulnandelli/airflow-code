@@ -1,0 +1,6 @@
+{"timestamp":"2025-11-13T07:24:05.865095Z","level":"info","event":"Filling up the DagBag from /home/airflow/airflow-code/dags/Netflix_Data_Analytics.py","logger":"airflow.models.dagbag.DagBag","filename":"dagbag.py","lineno":593}
+{"timestamp":"2025-11-13T07:24:06.100903Z","level":"info","event":"Found credentials from IAM Role: AirowS3SSMRole","logger":"botocore.credentials","filename":"credentials.py","lineno":1143}
+{"timestamp":"2025-11-13T07:24:36.667051Z","level":"info","event":"Filling up the DagBag from /home/airflow/airflow-code/dags/Netflix_Data_Analytics.py","logger":"airflow.models.dagbag.DagBag","filename":"dagbag.py","lineno":593}
+{"timestamp":"2025-11-13T07:24:36.894439Z","level":"info","event":"Found credentials from IAM Role: AirowS3SSMRole","logger":"botocore.credentials","filename":"credentials.py","lineno":1143}
+{"timestamp":"2025-11-13T07:25:07.497487Z","level":"info","event":"Filling up the DagBag from /home/airflow/airflow-code/dags/Netflix_Data_Analytics.py","logger":"airflow.models.dagbag.DagBag","filename":"dagbag.py","lineno":593}
+{"timestamp":"2025-11-13T07:25:07.724479Z","level":"info","event":"Found credentials from IAM Role: AirowS3SSMRole","logger":"botocore.credentials","filename":"credentials.py","lineno":1143}

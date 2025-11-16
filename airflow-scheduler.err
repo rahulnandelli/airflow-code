@@ -1,0 +1,12 @@
+[2m2025-11-13T06:55:02.239591Z[0m [[32m[1minfo     [0m] [1mStarting log server on http://[::]:8793[0m [[0m[1m[34mairflow.utils.serve_logs.core[0m][0m [36mloc[0m=[35mcore.py:50[0m
+[2m2025-11-13T06:55:02.259371Z[0m [[32m[1minfo     [0m] [1mLoaded executor: :LocalExecutor:[0m [[0m[1m[34mairflow.executors.executor_loader[0m][0m [36mloc[0m=[35mexecutor_loader.py:281[0m
+WARNING:  ASGI app factory detected. Using it, but please consider setting the --factory flag explicitly.
+INFO:     Started server process [3277]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     Uvicorn running on http://:8793 (Press CTRL+C to quit)
+INFO:     Shutting down
+INFO:     Waiting for application shutdown.
+INFO:     Application shutdown complete.
+INFO:     Finished server process [3277]
+Terminating on signal 15
